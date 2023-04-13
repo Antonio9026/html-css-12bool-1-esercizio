@@ -1,0 +1,33 @@
+
+section{
+    margin:40px 0;
+}
+.row{
+   
+    min-height: 50px;
+}
+.col{
+    height: 50px;
+}
+.double{
+    height: 100px;
+}
+.half{
+    height: 50px; 
+}
+
+/* debug */
+.blue{
+    border: 0.5px solid white;
+    background-color: #006cfa; 
+    color: white;
+}
+.black{
+    border: 0.5px solid white;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+
+
+
